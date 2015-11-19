@@ -1,2 +1,2 @@
-This Project represents a good flavour of MQTT protocol with Real Time Sensor data visualization.Temperature Sensor publish data and server receive data using MQTT protocol. Here the good thing is about real
-time data visualization, client view data on browser when client query  the data.
+This Project represents a good flavour of MQTT protocol with Real Time Sensor data visualization.Temperature Sensor publish data
+and server receive data using MQTT protocol. Here the good thing is about real time data visualization, client view data on browser when client query  the data.
